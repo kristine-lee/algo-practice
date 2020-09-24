@@ -41,3 +41,4 @@ function twoSumHashMap(arr, target){
 
 //brute force: find all pairs and see if they add up to target
 //more efficient: using a hash map
+
